@@ -38,4 +38,64 @@
       sus sueños son guiados por un instructor implacable</sinopsis>
     <titulo>Whiplash</titulo>
   </pelicula>
+  <pelicula>
+    <anio>1972</anio>
+    <director>Francis Ford Coppola</director>
+    <duracion>175</duracion>
+    <estado>Edición coleccionista</estado>
+    <fecha_adquisicion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <formato>Blu-ray</formato>
+    <genero>Drama</genero>
+    <id>0</id>
+    <sinopsis xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <titulo>El Padrino</titulo>
+  </pelicula>
+  <pelicula>
+    <anio>1993</anio>
+    <director>Steven Spielberg</director>
+    <duracion>195</duracion>
+    <estado>Nuevo</estado>
+    <fecha_adquisicion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <formato>DVD</formato>
+    <genero>Drama histórico</genero>
+    <id>0</id>
+    <sinopsis xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <titulo>La lista de Schindler</titulo>
+  </pelicula>
+  <pelicula>
+    <anio>1994</anio>
+    <director>Quentin Tarantino</director>
+    <duracion>154</duracion>
+    <estado>Usado</estado>
+    <fecha_adquisicion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <formato>Blu-ray</formato>
+    <genero>Crimen</genero>
+    <id>0</id>
+    <sinopsis xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <titulo>Pulp Fiction</titulo>
+  </pelicula>
+  <pelicula>
+    <anio>2008</anio>
+    <director>Christopher Nolan</director>
+    <duracion>152</duracion>
+    <estado>Nuevo</estado>
+    <fecha_adquisicion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <formato>4K</formato>
+    <genero>Acción</genero>
+    <id>0</id>
+    <sinopsis xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <titulo>El caballero oscuro</titulo>
+  </pelicula>
+  <pelicula>
+    <anio>2010</anio>
+    <director>Christopher Nolan</director>
+    <duracion>148</duracion>
+    <estado>Nuevo</estado>
+    <fecha_adquisicion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <formato>Blu-ray</formato>
+    <genero>Ciencia ficción</genero>
+    <id>0</id>
+    <sinopsis xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <titulo>Origen</titulo>
+  </pelicula>
 </peliculas>
