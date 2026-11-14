@@ -1,0 +1,41 @@
+<peliculas>
+  <pelicula>
+    <anio>1982</anio>
+    <director>Ridley Scott</director>
+    <duracion>117</duracion>
+    <estado>Edición coleccionista</estado>
+    <fecha_adquisicion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <formato>4K</formato>
+    <genero>Ciencia ficción</genero>
+    <id>0</id>
+    <sinopsis>En un futuro distópico, un expolicía es llamado de nuevo al servicio para perseguir
+      y retirar a un grupo de replicantes rebeldes</sinopsis>
+    <titulo>Blade Runner</titulo>
+  </pelicula>
+  <pelicula>
+    <anio>1991</anio>
+    <director>Jonathan Demme</director>
+    <duracion>118</duracion>
+    <estado>Nuevo</estado>
+    <fecha_adquisicion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <formato>Blu-ray</formato>
+    <genero>Thriller</genero>
+    <id>0</id>
+    <sinopsis>Una joven cadete del FBI busca la ayuda de un psiquiatra encarcelado y manipulador
+      para atrapar a otro asesino en serie</sinopsis>
+    <titulo>El silencio de los corderos</titulo>
+  </pelicula>
+  <pelicula>
+    <anio>2014</anio>
+    <director>Damien Chazelle</director>
+    <duracion>106</duracion>
+    <estado>Usado</estado>
+    <fecha_adquisicion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <formato>DVD</formato>
+    <genero>Drama</genero>
+    <id>0</id>
+    <sinopsis>Un joven y prometedor baterista de jazz se inscribe en un competitivo conservatorio donde
+      sus sueños son guiados por un instructor implacable</sinopsis>
+    <titulo>Whiplash</titulo>
+  </pelicula>
+</peliculas>
